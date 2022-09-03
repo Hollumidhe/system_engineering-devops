@@ -6,7 +6,7 @@
 * [List directory content](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 * [Change directory](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)
 * [List directory contents in a long format](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
-* [List directory contents in a long format including hidden files]https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
+* [List directory contents in a long format including hidden files]             (https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/103-commas
 * [List directory contents in a long format including hidden files and users and ID's numerically
 (https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 * [Make a directory](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)
