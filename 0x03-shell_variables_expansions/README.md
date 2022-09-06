@@ -14,3 +14,4 @@
 * Task - There are 10 types of people in the world -- Those who understand binary, and those who don't.
 * Task - Create a script that prints all possible combinations of two letters, except oo.
 * Task - Write a script that prints a number with two decimal places, followed by a new line.
+* Task - Write a script that converts a number from base 10 to base 16.
