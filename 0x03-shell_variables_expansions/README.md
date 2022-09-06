@@ -12,3 +12,4 @@
 * Task 9 - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 * Task 10 - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath.
 * Task - There are 10 types of people in the world -- Those who understand binary, and those who don't.
+* Task - Create a script that prints all possible combinations of two letters, except oo.
