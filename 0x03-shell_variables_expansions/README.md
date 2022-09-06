@@ -11,3 +11,4 @@
 * Task 8 - Every addition to true knowledge is an addition to human power.
 * Task 9 - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 * Task 10 - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath.
+* Task - There are 10 types of people in the world -- Those who understand binary, and those who don't.
