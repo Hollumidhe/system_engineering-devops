@@ -6,3 +6,4 @@
 * Task 3 - If the path be beautiful, let us not ask where it leads
 * Task 4 - Create a script that lists environment variables.
 * Task 5 - Create a script that lists all local variables and environment variables, and functions.
+8 Task 6 - Create a script that creates a new local variable.
