@@ -1,20 +1,20 @@
 # 0x03. Shell, init files, variables and expansions.
 ## Task contents
-* Task 0 - Create a script that creates an alias.
-* Task 1 - Create a script that prints hello user, where user is the current Linux user.
-* Task 2 - The path to success is to take massive, determined action.
-* Task 3 - If the path be beautiful, let us not ask where it leads.
-* Task 4 - Create a script that lists environment variables.
-* Task 5 - Create a script that lists all local variables and environment variables, and functions.
-* Task 6 - Create a script that creates a new local variable.
-* Task 7 - Create a script that creates a new global variable.
-* Task 8 - Every addition to true knowledge is an addition to human power.
-* Task 9 - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
-* Task 10 - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath.
-* Task 11 - There are 10 types of people in the world -- Those who understand binary, and those who don't.
-* Task 12 - Create a script that prints all possible combinations of two letters, except oo.
-* Task 13 - Write a script that prints a number with two decimal places, followed by a new line.
-* Task 14 - Write a script that converts a number from base 10 to base 16.
-* Task 15 - Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
-* Task 16 - Write a script that prints every other line from the input, starting with the first line.
-* Task 17 - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+* Task 0 - [Create a script that creates an alias.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/0-alias)
+* Task 1 - [Create a script that prints hello user, where user is the current Linux user.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/1-hello_you)
+* Task 2 - [The path to success is to take massive, determined action.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/2-path)
+* Task 3 - [If the path be beautiful, let us not ask where it leads.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/3-paths)
+* Task 4 - [Create a script that lists environment variables.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/4-global_variables)
+* Task 5 -[Create a script that lists all local variables and environment variables, and functions.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/5-local_variables)
+* Task 6 - [Create a script that creates a new local variable.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/6-create_local_variable)
+* Task 7 - [Create a script that creates a new global variable.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/7-create_global_variable)
+* Task 8 - [Every addition to true knowledge is an addition to human power.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/8-true_knowledge)
+* Task 9 - [Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/9-divide_and_rule)
+* Task 10 - [Love is anterior to life, posterior to death, initial of creation, and the exponent of breath.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/10-love_exponent_breath)
+* Task 11 - [There are 10 types of people in the world -- Those who understand binary, and those who don't.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/11-binary_to_decimal)
+* Task 12 - [Create a script that prints all possible combinations of two letters, except oo.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/12-combinations)
+* Task 13 - [Write a script that prints a number with two decimal places, followed by a new line.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/13-print_float)
+* Task 14 - [Write a script that converts a number from base 10 to base 16.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/100-decimal_to_hexadecimal)
+* Task 15 - [Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/101-rot13)
+* Task 16 - [Write a script that prints every other line from the input, starting with the first line.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/102-odd)
+* Task 17 - [Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.](https://github.com/olumide12-cell/alx-system_engineering-devops/blob/master/0x03-shell_variables_expansions/103-water_and_stir)
